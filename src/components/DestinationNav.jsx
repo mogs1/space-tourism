@@ -4,13 +4,13 @@ function DestinationNav() {
 	const navigate = useNavigate()
 
   return (
-	<div className="flex flex-col h-screen -mt-40 pt-20 lg:flex-row lg:pt-56 mx-auto">
-		<div className="h-1/2 lg:h-1 lg:w-3/5 mx-auto">
+	<div className="absolute top-0 left-0 bottom-0 right-0 z-10 flex flex-col pt-20 lg:flex-row lg:pt-56 mx-auto">
+		<div className="h-1/2 lg:h-max lg:w-3/5 mx-auto">
 
 		</div>
 
-		<nav className="lg:w-2/5 h-1/2 lg:h-1 mx-auto">
-		<ul className="flex justify-center lg:justify-start px-5 lg:px-0">
+		<nav className="lg:w-2/5 h-1/2 lg:h-max mx-auto">
+		<ul className="flex justify-center px-5 lg:justify-start  lg:px-0">
 			
 			<Link to='Moon'>
 			<div className="relative group text-white space-y-3 py-2 cursor-pointer

@@ -8,7 +8,7 @@ import Anousheh from "../components/crew/Anousheh"
 function Crew() {
   return (
 	<div className='h-screen cover crew'>
-    <h1 className="pl-10 pt-32 md:pl-20 text-slate-300 text-xl">
+    <h1 className="pl-10 pt-20 sm:pt-32 md:pl-20 text-slate-300 text-xl">
       02 <span className='text-white uppercase ml-2 tracking-wider'>Meet your crew</span>
     </h1>
     

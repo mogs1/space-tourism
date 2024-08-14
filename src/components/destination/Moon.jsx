@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import Moonimg from '../../assets/destination/image-moon.png'
 function Moon() {
   return (
-	<div className="flex flex-col absolute top-0 left-0 right-0 bottom-0 pt-44 lg:flex-row lg:pt-56 mx-auto lg:mx-0">
+	<div className="flex flex-col absolute top-0 left-0 right-0 bottom-0 pt-36 sm:pt-44 lg:flex-row lg:pt-56 mx-auto lg:mx-0">
 
 		<div className="
 		h-1/2 lg:h-min lg:w-3/5 mx-auto lg:mx-0 lg:">
@@ -19,12 +19,12 @@ function Moon() {
             <h1 class="tracking-wider text-7xl lg:text-8xl font-sans">
 				MOON
 			</h1>
-            <p class="text-gray-300 w-full lg:max-w-lg">
+            <p class="text-gray-300 w-full max-w-sm sm:max-w-md lg:max-w-lg">
              See our planet as you’ve never seen it before. A perfect relaxing trip away to help 
         	 regain perspective and come back refreshed. While you’re there, take in some history 
              by visiting the Luna 2 and Apollo 11 landing sites.
             </p>
-            <div class="pt-5 border-t-2 border-white uppercase flex flex-col space-x-14 text-gray-300  justify-center lg:justify-start sm:flex-row">
+            <div class="pt-5 border-t-2 border-white uppercase flex flex-col space-y-5 text-gray-300  justify-center lg:justify-start sm:space-y-0 sm:flex-row sm:space-x-14">
                 <div class="space-y-2">
 					<label for="">
 						avg. distance

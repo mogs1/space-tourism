@@ -11,13 +11,15 @@ function MobileNav() {
 		setMenu(!menu);
 		setOpen(!open);
 	}
+
   return (
 	<div className='sm:hidden absolute top-0 right-0 left-0 bottom-0'>
 		<span className='absolute top-7 right-7 z-50 cursor-pointer' 
 		onClick={menubar}>
 			<img className='' src={menu ? Hamburger : Closebar} alt="Menu-bar" />
 		</span>
-		<nav className={`z-40 absolute top-0 right-0 bottom-0 left-[40%] backdrop-blur-lg bg-gray-400/50 duration-300 ${open ? "flex" : "hidden"}`}>
+		<nav className={`flex
+		z-40 absolute top-0 right-0 bottom-0  backdrop-blur-lg bg-gray-400/50 ${open ? "left-[40%]" : "left[100%]"}`}>
 
 			<ul className="flex flex-col w-full absolute top-[17%]">
 
