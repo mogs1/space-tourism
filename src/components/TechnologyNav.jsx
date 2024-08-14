@@ -2,7 +2,7 @@ import { Link, NavLink } from "react-router-dom"
 
 function TechnologyNav() {
   return (
-	<div className="absolute z-10 top-0 right-0 bottom-0 left-0 flex flex-col justify-center items-center pt-[30%] lg:ml-0 lg:pt-24 lg:flex-row lg:justify-start lg:left-16">
+	<div className="absolute z-10 top-0 right-0 bottom-0 left-0 flex flex-col justify-center items-center pt-[26%] lg:ml-0 lg:pt-24 lg:flex-row lg:justify-start lg:left-16">
 
 		<nav className="">
 

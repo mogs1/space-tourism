@@ -8,7 +8,7 @@ import MobileNav from "./components/MobileNav";
 import Logo from "./assets/shared/logo.svg"
 function App() {
   return (
-    <div className="relative ">
+    <div className="relative overflow-hidden">
       <img className="absolute w-10 h-10 z-50 top-3 left-7 sm:w-min sm:h-min lg:top-10" src={Logo} alt="logo" />
       <Router>
         <Navbar />
