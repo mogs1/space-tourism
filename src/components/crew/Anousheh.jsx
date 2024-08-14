@@ -21,7 +21,7 @@ function Anousheh() {
 
 		<div className=" h-1/2 lg:h-1 lg:w-2/5 mx-auto -mt-6 lg:mx-0 lg:-mt-20">
 		<div>
-			<img className='flex justify-center items-baseline w-[300px] lg:w-[36.5rem] mx-auto lg:' src={Personimg} alt="Douglas Hurley" />
+			<img className='flex justify-center items-baseline w-[295px] lg:w-[35rem] mx-auto lg:' src={Personimg} alt="Douglas Hurley" />
 			</div>
 		</div>
 

@@ -21,7 +21,7 @@ function Mark() {
 
 		<div className=" h-1/2 lg:h-1 lg:w-2/5 mx-auto -mt-5 lg:mx-0 lg:-mt-20">
 		<div>
-			<img className='flex justify-center items-baseline w-52 lg:w-[414px] mx-auto lg:' src={Personimg} alt="Mark Shuttkeworth" />
+			<img className='flex justify-center items-baseline w-52 lg:w-[400px] mx-auto' src={Personimg} alt="Mark Shuttkeworth" />
 			</div>
 		</div>
 

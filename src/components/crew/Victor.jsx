@@ -21,7 +21,7 @@ function Victor() {
 
 		<div className=" h-1/2 lg:h-1 lg:w-2/5 mx-auto -mt-6 lg:mx-0 lg:-mt-20">
 		<div>
-			<img className='flex justify-center items-baseline w-[267px] lg:w-[32.5rem] mx-auto lg:' src={Personimg} alt="Victor Glover" />
+			<img className='flex justify-center items-baseline w-[267px] lg:w-[31rem] mx-auto lg:' src={Personimg} alt="Victor Glover" />
 			</div>
 		</div>
 

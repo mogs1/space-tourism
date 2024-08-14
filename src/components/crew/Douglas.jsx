@@ -21,7 +21,7 @@ function Douglas() {
 
 		<div className=" h-1/2 lg:h-1 lg:w-2/5 mx-auto -mt-4 lg:mx-0 lg:-mt-20">
 		<div>
-			<img className='flex justify-center items-baseline w-56 lg:w-[449px] mx-auto' src={Personimg} alt="Douglas Hurley" />
+			<img className='flex justify-center items-baseline w-56 lg:w-[439px] mx-auto' src={Personimg} alt="Douglas Hurley" />
 			</div>
 		</div>
 
