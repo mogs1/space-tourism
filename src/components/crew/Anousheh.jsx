@@ -1,4 +1,4 @@
-import Personimg from '../../Space-Tourism/assets/crew/image-anousheh-ansari.png'
+import Personimg from '../../assets/crew/image-anousheh-ansari.png'
 
 function Anousheh() {
   return (

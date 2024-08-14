@@ -1,5 +1,5 @@
-import VehicleLandscapeimg from '../../Space-Tourism/assets/technology/image-launch-vehicle-landscape.jpg'
-import VehiclePortraitimg from '../../Space-Tourism/assets/technology/image-launch-vehicle-portrait.jpg'
+import VehicleLandscapeimg from '../../assets/technology/image-launch-vehicle-landscape.jpg'
+import VehiclePortraitimg from '../../assets/technology/image-launch-vehicle-portrait.jpg'
 
 function Vehicle() {
 

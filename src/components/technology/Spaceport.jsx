@@ -1,5 +1,5 @@
-import SpaceportLandscapeimg from '../../Space-Tourism/assets/technology/image-spaceport-landscape.jpg'
-import SpaceportPortraitimg from '../../Space-Tourism/assets/technology/image-spaceport-portrait.jpg'
+import SpaceportLandscapeimg from '../../assets/technology/image-spaceport-landscape.jpg'
+import SpaceportPortraitimg from '../../assets/technology/image-spaceport-portrait.jpg'
 
 function Spaceport() {
 

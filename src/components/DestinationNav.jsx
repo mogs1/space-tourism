@@ -3,7 +3,6 @@ import { Link, NavLink, Navigate, useNavigate } from "react-router-dom"
 function DestinationNav() {
 	const navigate = useNavigate()
 
-
   return (
 	<div className="flex flex-col h-screen -mt-40 pt-20 lg:flex-row lg:pt-56 mx-auto">
 		<div className="h-1/2 lg:h-1 lg:w-3/5 mx-auto">

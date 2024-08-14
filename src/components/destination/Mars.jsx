@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import Marsimg from '../../Space-Tourism/assets/destination/image-mars.png'
+import Marsimg from '../../assets/destination/image-mars.png'
 function Mars() {
   return (
 	<div className="flex flex-col absolute top-0 left-0 right-0 bottom-0 pt-44 lg:flex-row lg:pt-56 mx-auto lg:mx-0">

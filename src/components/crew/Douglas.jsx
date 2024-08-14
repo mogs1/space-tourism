@@ -1,4 +1,4 @@
-import Personimg from '../../Space-Tourism/assets/crew/image-douglas-hurley.png'
+import Personimg from '../../assets/crew/image-douglas-hurley.png'
 
 function Douglas() {
   return (

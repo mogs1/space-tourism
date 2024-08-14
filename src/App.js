@@ -5,7 +5,7 @@ import Destination from "./pages/Destination";
 import Technology from "./pages/Technology";
 import Navbar from "./components/Navbar";
 import MobileNav from "./components/MobileNav";
-import Logo from "./Space-Tourism/assets/shared/logo.svg"
+import Logo from "./assets/shared/logo.svg"
 function App() {
   return (
     <div className="relative ">

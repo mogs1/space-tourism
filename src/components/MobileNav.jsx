@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom';
-import Hamburger from '../Space-Tourism/assets/shared/icon-hamburger.svg'
-import Closebar from '../Space-Tourism/assets/shared/icon-close.svg'
+import Hamburger from '../assets/shared/icon-hamburger.svg'
+import Closebar from '../assets/shared/icon-close.svg'
 
 function MobileNav() {
 	const [menu, setMenu] = useState(true);

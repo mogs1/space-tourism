@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import Europaimg from '../../Space-Tourism/assets/destination/image-moon.png'
+import Europaimg from '../../assets/destination/image-moon.png'
 
 function Europa() {
   return (

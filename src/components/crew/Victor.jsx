@@ -1,4 +1,4 @@
-import Personimg from '../../Space-Tourism/assets/crew/image-victor-glover.png'
+import Personimg from '../../assets/crew/image-victor-glover.png'
 
 function Victor() {
   return (

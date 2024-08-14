@@ -1,4 +1,4 @@
-import Personimg from '../../Space-Tourism/assets/crew/image-mark-shuttleworth.png'
+import Personimg from '../../assets/crew/image-mark-shuttleworth.png'
 
 function Mark() {
   return (

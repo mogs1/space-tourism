@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Titanimg from '../../Space-Tourism/assets/destination/image-titan.png'
+import Titanimg from '../../assets/destination/image-titan.png'
 function Titan() {
   return (
 	<div className="flex flex-col absolute top-0 left-0 bottom-0 right-0 bg-transparent pt-44 lg:flex-row lg:pt-56 mx-auto lg:mx-0">

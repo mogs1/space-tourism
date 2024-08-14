@@ -1,5 +1,5 @@
-import CapsuleLandscapeimg from '../../Space-Tourism/assets/technology/image-space-capsule-landscape.jpg'
-import CapsulePortraitimg from '../../Space-Tourism/assets/technology/image-space-capsule-portrait.jpg'
+import CapsuleLandscapeimg from '../../assets/technology/image-space-capsule-landscape.jpg'
+import CapsulePortraitimg from '../../assets/technology/image-space-capsule-portrait.jpg'
 
 function Capsule() {
 
