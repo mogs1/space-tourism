@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import Moonimg from '../../assets/destination/image-moon.png'
 function Moon() {
   return (
-	<div className="flex flex-col absolute top-0 left-0 right-0 bottom-0 pt-36 sm:pt-44 lg:flex-row lg:pt-56 mx-auto lg:mx-0">
+	<div className="flex flex-col absolute top-0 left-0 right-0 bottom-0 pt-32 sm:pt-44 lg:flex-row lg:pt-56 mx-auto lg:mx-0">
 
 		<div className="
 		h-1/2 lg:h-min lg:w-3/5 mx-auto lg:mx-0 lg:">
@@ -14,7 +14,7 @@ function Moon() {
 			</div>
 		</div>
 
-		<div className=" md:w-2/5 h-1/2 lg:h-1 mx-auto max-w-lg lg:max-w-md lg:pt-14  lg:mx-px">
+		<div className="-mt-6 sm:-mt-3 md:w-2/5 h-1/2 lg:h-1 mx-auto max-w-lg lg:max-w-md lg:pt-14  lg:mx-px">
 		<div id="content-1" class="space-y-5 text-white text-center lg:space-y-11 lg:text-left">
             <h1 class="tracking-wider text-7xl lg:text-8xl font-sans">
 				MOON
@@ -24,7 +24,7 @@ function Moon() {
         	 regain perspective and come back refreshed. While you’re there, take in some history 
              by visiting the Luna 2 and Apollo 11 landing sites.
             </p>
-            <div class="pt-5 border-t-2 border-white uppercase flex flex-col space-y-5 text-gray-300  justify-center lg:justify-start sm:space-y-0 sm:flex-row sm:space-x-14">
+            <div class="pt-5 border-t-2 border-white uppercase flex flex-col space-y-3 text-gray-300  justify-center lg:justify-start sm:space-y-0 sm:flex-row sm:space-x-14">
                 <div class="space-y-2">
 					<label for="">
 						avg. distance

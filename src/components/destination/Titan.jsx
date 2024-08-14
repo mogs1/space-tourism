@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import Titanimg from '../../assets/destination/image-titan.png'
 function Titan() {
   return (
-	<div className="flex flex-col absolute top-0 left-0 bottom-0 right-0 bg-transparent pt-36 sm:pt-44 lg:flex-row lg:pt-56 mx-auto lg:mx-0">
+	<div className="flex flex-col absolute top-0 left-0 bottom-0 right-0 bg-transparent pt-32 sm:pt-44 lg:flex-row lg:pt-56 mx-auto lg:mx-0">
 		<div className=" h-1/2 lg:h-1 lg:w-3/5 mx-auto lg:mx-0 lg:">
 		<div>
 			<motion.img
@@ -12,7 +12,7 @@ function Titan() {
 			</div>
 		</div>
 
-		<div className=" md:w-2/5 h-1/2 lg:h-1 mx-auto max-w-lg lg:max-w-md lg:pt-14  lg:mx-px">
+		<div className="-mt-6 sm:-mt-3 md:w-2/5 h-1/2 lg:h-1 mx-auto max-w-lg lg:max-w-md lg:pt-14  lg:mx-px">
 		<div id="content-1" class="space-y-5 text-white text-center lg:space-y-11 lg:text-left">
             <h1 class="tracking-wider text-7xl lg:text-8xl font-sans">
 				TITAN

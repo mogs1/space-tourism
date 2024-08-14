@@ -9,7 +9,7 @@ import DestinationNav from '../components/DestinationNav';
 function Destination() {
   return (
 	<div className='h-screen cover destination'>
-    <h1 className="pl-10 pt-20 md:pl-20 sm:pt-32 text-slate-300 text-xl">
+    <h1 className="pl-10 pt-20 md:pl-20 sm:pt-28 text-slate-300 text-xl">
       01 <span className='text-white uppercase ml-2 tracking-wider'>pick your destination</span>
     </h1>
     
