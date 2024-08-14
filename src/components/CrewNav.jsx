@@ -2,7 +2,7 @@ import { Link, NavLink } from "react-router-dom"
 
 function CrewNav() {
   return (
-	<div className="z-20 flex flex-col h-screen absolute top-0 left-0 bottom-0 right-0 pt-20 lg:flex-row lg:pt-56 mx-auto">
+	<div className="z-10 flex flex-col h-screen absolute top-0 left-0 bottom-0 right-0 pt-20 lg:flex-row lg:pt-56 mx-auto">
 
 		<nav className="relative flex lg:w-3/5 h-1/2 lg:h-[420px] mx-auto">
 

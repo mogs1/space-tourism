@@ -4,7 +4,7 @@ import '../style/Navbar.css'
 
 function Navbar() {
   return (
-	<nav className='hidden sm:flex absolute z-20 right-0 lg:mt-8'>
+	<nav className='hidden sm:flex absolute z-30 right-0 lg:mt-8'>
 		<ul className="bg-slate-100/10 backdrop-blur-lg flex px-2 md:px-3 ">
 			
 			<NavLink to='/'>
